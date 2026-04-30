@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/HibaRafeek/Leetcode-challange/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3046-split-the-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3046-split-the-array) |
+| [3151-special-array-i](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3151-special-array-i) |
 | [3467-transform-array-by-parity](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
