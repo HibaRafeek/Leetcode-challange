@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0060-permutation-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3783-mirror-distance-of-an-integer) |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0169-majority-element) |
 | [3046-split-the-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3467-transform-array-by-parity) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
