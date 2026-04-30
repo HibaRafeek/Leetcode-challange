@@ -15,5 +15,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0169-majority-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
