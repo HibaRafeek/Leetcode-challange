@@ -56,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0175-combine-two-tables) |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0344-reverse-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
