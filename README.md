@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0169-majority-element) |
+| [1528-shuffle-string](https://github.com/HibaRafeek/Leetcode-challange/tree/main/1528-shuffle-string/) | Easy |
 | [1929-concatenation-of-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/HibaRafeek/Leetcode-challange/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0344-reverse-string/) | Easy |
 | [0796-rotate-string](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0796-rotate-string/) | Easy |
+| [1528-shuffle-string](https://github.com/HibaRafeek/Leetcode-challange/tree/main/1528-shuffle-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
