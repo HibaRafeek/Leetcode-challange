@@ -2,20 +2,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0060-permutation-sequence](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0060-permutation-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3783-mirror-distance-of-an-integer) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0169-majority-element) |
 | [1929-concatenation-of-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -24,36 +24,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3151-special-array-i) |
 | [3467-transform-array-by-parity](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0169-majority-element) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/HibaRafeek/Leetcode-challange/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3046-split-the-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3046-split-the-array) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0169-majority-element) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0169-majority-element) |
 | [3467-transform-array-by-parity](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3467-transform-array-by-parity) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0169-majority-element) |
 | [3046-split-the-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3467-transform-array-by-parity) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0060-permutation-sequence](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0060-permutation-sequence) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/1929-concatenation-of-array) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
