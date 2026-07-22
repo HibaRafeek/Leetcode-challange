@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0169-majority-element) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/HibaRafeek/Leetcode-challange/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3046-split-the-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/3046-split-the-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0141-linked-list-cycle/) | Easy |
 | [0344-reverse-string](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
@@ -75,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
