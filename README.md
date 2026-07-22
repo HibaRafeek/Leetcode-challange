@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0060-permutation-sequence](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
@@ -88,6 +90,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
