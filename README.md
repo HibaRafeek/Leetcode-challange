@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0060-permutation-sequence](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
