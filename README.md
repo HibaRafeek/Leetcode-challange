@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0344-reverse-string/) | Easy |
 | [0796-rotate-string](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0796-rotate-string/) | Easy |
 | [1528-shuffle-string](https://github.com/HibaRafeek/Leetcode-challange/tree/main/1528-shuffle-string/) | Easy |
@@ -101,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
