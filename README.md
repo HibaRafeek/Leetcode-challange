@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0283-move-zeroes/) | Easy |
 | [1528-shuffle-string](https://github.com/HibaRafeek/Leetcode-challange/tree/main/1528-shuffle-string/) | Easy |
 | [1929-concatenation-of-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HibaRafeek/Leetcode-challange/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
