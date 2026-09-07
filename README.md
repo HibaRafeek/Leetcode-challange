@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/HibaRafeek/Leetcode-challange/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/HibaRafeek/Leetcode-challange/tree/main/0176-second-highest-salary/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
